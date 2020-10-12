@@ -60,7 +60,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectId" id="1iTY45FdJwA6sHOdEbDIOpCIEg2" />
+  <component name="ProjectId" id="1inEAfHcxTFPiDFmiKS2XcxY7kv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -110,7 +110,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="ClaseString" />
+      <module name="Cadenas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -184,29 +184,21 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="201" key="GridCell.Tab.0.bottom" timestamp="1602021921334">
+    <state width="1557" height="201" key="GridCell.Tab.0.bottom" timestamp="1602536017296">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="201" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1360.728@0.0.1600.860" timestamp="1601933458305" />
-    <state width="1557" height="201" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602021921334" />
-    <state width="1557" height="201" key="GridCell.Tab.0.center" timestamp="1602021921334">
+    <state width="1557" height="201" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602536017296" />
+    <state width="1557" height="201" key="GridCell.Tab.0.center" timestamp="1602536017296">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="201" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1360.728@0.0.1600.860" timestamp="1601933458305" />
-    <state width="1557" height="201" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602021921334" />
-    <state width="1557" height="201" key="GridCell.Tab.0.left" timestamp="1602021921334">
+    <state width="1557" height="201" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602536017296" />
+    <state width="1557" height="201" key="GridCell.Tab.0.left" timestamp="1602536017296">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="201" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1360.728@0.0.1600.860" timestamp="1601933458304" />
-    <state width="1557" height="201" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602021921334" />
-    <state width="1557" height="201" key="GridCell.Tab.0.right" timestamp="1602021921334">
+    <state width="1557" height="201" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602536017296" />
+    <state width="1557" height="201" key="GridCell.Tab.0.right" timestamp="1602536017296">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="201" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1360.728@0.0.1600.860" timestamp="1601933458305" />
-    <state width="1557" height="201" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602021921334" />
-    <state x="182" y="128" key="new project wizard" timestamp="1602534813247">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="182" y="128" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1602534813247" />
+    <state width="1557" height="201" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602536017296" />
   </component>
 </project>
